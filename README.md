@@ -1,2 +1,2 @@
-# demo1
+# NewRepo
 This is my second Git repository.
